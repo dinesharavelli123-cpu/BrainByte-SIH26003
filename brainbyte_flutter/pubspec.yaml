@@ -1,0 +1,27 @@
+name: brainbyte
+version: 2.0.0+2
+publish_to: 'none'
+description: BrainByte mental wellness and cognitive support companion.
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  shared_preferences: ^2.5.3
+  flutter_secure_storage: ^9.2.4
+  permission_handler: ^12.0.0+1
+  speech_to_text: ^7.0.0
+  flutter_tts: ^4.2.3
+  url_launcher: ^6.3.1
+  connectivity_plus: ^6.1.4
+  audioplayers: ^6.4.0
+  crypto: ^3.0.6
+  intl: ^0.20.2
+  cupertino_icons: ^1.0.8
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+flutter:
+  uses-material-design: true
