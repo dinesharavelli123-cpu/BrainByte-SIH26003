@@ -36,3 +36,5 @@ GitHub Actions builds a debug APK automatically. Open the repository's **Actions
 BrainByte supports cognitive engagement and memory assistance. It does not diagnose, cure or treat dementia and does not replace qualified medical care.
 
 The current launcher icon is temporary and can be replaced with the final icon supplied by Team MEMORA.
+
+Build workflow initialized for the SIH prototype.
